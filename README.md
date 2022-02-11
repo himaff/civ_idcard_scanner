@@ -13,7 +13,7 @@ dependencies:
 Just import the package and call `scanCard`:
 
 ```dart
-import 'package:civ_idcard_scanner/civ_idcard_scanner.dart';
+import 'package:civ_idcard_scanner/card_scanner.dart';
 var cardDetails = await CardScanner.scanCard();
 
 print(cardDetails);
