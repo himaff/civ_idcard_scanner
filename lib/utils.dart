@@ -1,4 +1,4 @@
-import 'package:civ_idcard_scanner/civ_idcard_scanner.dart';
+import 'package:civ_idcard_scanner/card_scanner.dart';
 
 class CardUtils {
   final new_ci_cni = RegExp("CI([0-9]{9})");
